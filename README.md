@@ -3,7 +3,7 @@ this package is for calculating:-
 2. Binomial distributoin for given data set
 
 it also shows Histogram and graph representation.
-to install type:-
+to install type in terminal:-
 --> pip install -i https://test.pypi.org/simple/ gaussBino-probability==0.1
 
 For testing :- 
